@@ -1,0 +1,1039 @@
+const TermsAndConditions = () => {
+  return (
+    <div className="prose prose-green">
+      <h1 id="terms-conditions">Terms &amp; Conditions</h1>
+      <p>
+        These <em>Terms and Conditions</em> govern the terms of your access and
+        use of JustCopyTrade website, platform and/or services provided through
+        this platform as website visitors, signal followers and signal
+        providers, and constitute your legal agreement with us. After you click
+        on ‘Sign up’, ‘Register’ or ‘I Agree’ or when you use the JustCopyTrade
+        website, platform and/or services provided through the platform, a
+        legally binding agreement on these Terms and Conditions is concluded
+        between you and us. By accepting these Terms, you agree that{' '}
+        <em>our Privacy Policy</em>, as it exists at any relevant time, shall be
+        applicable to you.
+      </p>
+      <p>
+        <em>1. Definitions</em>
+      </p>
+      <ul>
+        <li>
+          <p>
+            “<em>Terms</em>”, “<em>Terms and Conditions</em>” means these Terms
+            of Conditions.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>We</em>”, “<em>us</em>” means Larmond Capital Ltd, a British
+            Virgin Islands company with registered No. 1713090, the owner of the
+            JustCopyTrade Platform.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>User</em>”, “<em>you</em>” means a person or a company using
+            the JustCopyTrade Platform and the Services as a website visitor,
+            Strategy Follower or Strategy Provider.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>Strategy Follower</em>” means a user, who has signed up for the
+            Services by registering on the JustCopyTrade Platform and uses
+            JustCopyTrade Services and Strategy Provider’s Services by following
+            trading signals from Strategy Providers.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>Strategy Provider</em>” means a financial markets trader, who
+            has developed certain trading systems designed to generate trading
+            signals to be used by Strategy Followers, and who streams their
+            trading activities through JustCopyTrade Platform or through the
+            platforms and websites of our licensees.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>Broker</em>” means a broker and its online trading system,
+            which is integrated with JustCopyTrade Platform and where the
+            Strategy Followers’ trades are executed according to the trading
+            signals from Strategy Providers.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>JustCopyTrade Platform</em>” means the website and our
+            proprietary web-based platform for auto-trading, accessible at{' '}
+            <a href="http://www.JustCopyTrade.com/">
+              http://www.JustCopyTrade.com/
+            </a>{' '}
+            or any other online website or mobile application provided by us,
+            through which JustCopyTrade Services and Strategy Provider’s
+            Services are available and provided, including their sub-domains,
+            programming code, related technologies, know-hows, databases and
+            design.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>JustCopyTrade Services</em>” means provision of the
+            JustCopyTrade Platform by us:
+          </p>
+          <ul>
+            <li>
+              <p>
+                To Strategy Providers in order for them to provide Strategy
+                Provider’s Services to Strategy Followers through the
+                JustCopyTrade Platform. Such services also include access to the
+                trading statistics of Strategy Followers, who follows you as a
+                Strategy Provider.
+              </p>
+            </li>
+            <li>
+              <p>
+                To Strategy Followers, in order for them to receive the trading
+                signals from the selected Strategy Providers and following them
+                on financial markets by real-time duplicating (mirroring) their
+                trading activities and execution trades in automated mode
+                according to the trading signals through account opened by
+                Strategy Followers with a Broker (Brokers) and connected with
+                the JustCopyTrade Platform. Such services also include (i)
+                validation of the received trading signals from Strategy
+                Providers, (ii) sending the validated trading signals to the
+                Strategy Followers’ accounts with Brokers for execution, and
+                (iii) access to the portfolio management and the trading
+                statistics modules of the JustCopyTrade Platform.
+              </p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            “<em>Strategy Provider’s Services</em>” means making available by
+            Strategy Provider its trading activity and streaming it to Strategy
+            Followers through the JustCopyTrade Platform. Each trading action
+            performed in Strategy Provider’s account connected to the
+            JustCopyTrade Platform is sent to Strategy Followers’ Broker
+            accounts as a trading signal. Such a signal automatically triggers a
+            trade in Strategy Follower’s account (i) if it falls within the
+            settings and parameters set by Strategy Follower and (ii) in case
+            this particular Strategy Follower has chosen to follow the trading
+            signals from this certain Strategy Provider.
+          </p>
+        </li>
+        <li>
+          <p>
+            “<em>Services</em>” means JustCopyTrade Services and Strategy
+            Provider’s Services.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>2. Registration and Your Account with Us</em>
+      </p>
+      <p>
+        To use the Services, you will first need to register for an account with
+        us. You may only use the Services if you are 18 years of age or over (or
+        such other higher minimum legal age in your country) and it is legal for
+        you to do so according to the laws that apply in your country. It is
+        your sole responsibility to ensure that at all times you comply with the
+        laws that govern you and that you have the complete legal right to use
+        the Services. You can open an Account with us by entering your valid
+        email address and login name, which will become your Account name, and
+        choosing password (“Login Details”), and other information such as your:
+      </p>
+      <ul>
+        <li>
+          <p>first and last name,</p>
+        </li>
+        <li>
+          <p>address,</p>
+        </li>
+        <li>
+          <p>country of residence and</p>
+        </li>
+        <li>
+          <p>phone number.</p>
+        </li>
+      </ul>
+      <p>
+        You shall ensure that information provided at registration is always
+        accurate and kept up to date. You may be able to change information you
+        have provided at registration by editing your Account preferences or
+        contacting us. You must not disclose your Login Details to anyone and
+        allow anyone else to use it. You are responsible for the security of
+        your Login Details. Everyone who identifies themselves by entering
+        correct Login Details is assumed by us to be the rightful Account holder
+        and all transactions where Login Details have been entered correctly
+        will be regarded as valid. You may not create multiple Accounts.
+      </p>
+      <p>
+        <em>3. General. Use of JustCopyTrade Platform and Services</em>
+      </p>
+      <p>
+        Any use of the JustCopyTrade Platform and the Services is at your sole
+        option, discretion and risk. By using them you acknowledge that you do
+        not find the services to be objectionable or unfair in any way.
+        <em>License Grant. Permitted Use.</em> Subject to your compliance with
+        these Terms, we give you a personal, worldwide, royalty-free,
+        non-assignable and non-exclusive license to access and use the
+        JustCopyTrade Platform for your own personal non-commercial use. This
+        license is for the sole purpose of enabling you to use and enjoy the
+        benefits of the JustCopyTrade Platform in the manner permitted by these
+        Terms. Any other use of the JustCopyTrade Platform requires our prior
+        written consent.
+        <em>Legal Restrictions.</em> The JustCopyTrade Platform may be used and
+        accessed for lawful purposes only. You understand that laws regarding
+        financial contracts and trading activities vary throughout the world,
+        and it is your obligation alone to ensure that you fully comply with any
+        law, regulation or directive, relevant to your country of residency with
+        regards to the use of the JustCopyTrade Platform and the Services. The
+        ability to access the JustCopyTrade Platform does not necessarily mean
+        that the Services, and/or your activities through it, are legal under
+        the laws, regulations or directives relevant to your country of
+        residency.
+        <em>User Restrictions.</em> You agree that you will not do any of the
+        following while using or accessing the JustCopyTrade Platform or using
+        the Services:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Reproduce, modify, adapt, prepare derivative works based on,
+            perform, display, publish, distribute, transmit, broadcast, sell,
+            license or otherwise exploit the JustCopyTrade Platform and the
+            Services.
+          </p>
+        </li>
+        <li>
+          <p>
+            Distribute, re-transmit, encumber, sell, rent, lease, sublicense,
+            assign or otherwise transfer any of the content, data or information
+            provided by us or Strategy Providers, including trade signals, in
+            any form or by any medium.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use or copy any of the content, data or information provided by us
+            or Strategy Providers, including trade signals, in whole or in part
+            except as set out in these Terms.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use the JustCopyTrade Platform as part of a facility management,
+            timesharing, service provider, software-as-a-service, display,
+            perform, or publish or otherwise permit third parties to benefit
+            from the use or functionality of the JustCopyTrade Platform or any
+            data or information provided by, with or through the JustCopyTrade
+            Platform.
+          </p>
+        </li>
+        <li>
+          <p>
+            Circumvent, disable or otherwise interfere with security related
+            features of the JustCopyTrade Platform.
+          </p>
+        </li>
+        <li>
+          <p>
+            Interfere with or disrupt (or attempt to interfere with or disrupt)
+            any functionality of the JustCopyTrade Platform, servers or networks
+            connected to the JustCopyTrade Platform, or the technical delivery
+            systems of our providers or disobey any requirements, procedures,
+            policies or regulations of networks connected to the JustCopyTrade
+            Platform.
+          </p>
+        </li>
+        <li>
+          <p>
+            Attempt to probe, scan or test the vulnerability of any our system
+            or network or breach or impair or circumvent any security or
+            authentication measures protecting the JustCopyTrade Platform.
+          </p>
+        </li>
+        <li>
+          <p>
+            Attempt to decipher, decompile, disassemble or reverse engineer any
+            of the software used to provide the JustCopyTrade Platform.
+          </p>
+        </li>
+        <li>
+          <p>
+            Attempt to access, scrape, parse, search or meta-search the
+            JustCopyTrade Platform with any engine, software, tool, agent,
+            device or mechanism other than software and/or search agents
+            provided by us or other generally available third party web
+            browsers.
+          </p>
+        </li>
+        <li>
+          <p>
+            Collect or store personal data about users without their express
+            permission.
+          </p>
+        </li>
+        <li>
+          <p>
+            Impersonate or misrepresent your affiliation with any person or
+            entity or otherwise commit fraud.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use the JustCopyTrade Platform or the Services in any manner not
+            permitted by these Terms.
+          </p>
+        </li>
+        <li>
+          <p>
+            Encourage or instruct any other individual to do any of the
+            foregoing or to violate these Terms.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>Updates and Support.</em> At our discretion we may make updates or
+        upgrades available for the JustCopyTrade Platform. On a case-by-case
+        basis and at our sole discretion we may offer support for the
+        JustCopyTrade Platform and JustCopyTrade Services consisting of online
+        FAQ, online documentation (user manuals or tutorials), live chat and
+        support over email.
+        <em>Publicity.</em> By accepting these Terms you consent to the use of,
+        and agree that we may use, your name, likeness, and photograph in, and
+        in connection with, the development, production, distribution and/or
+        exploitation (including marketing and promotion) of JustCopyTrade
+        Services, our websites and/or our business generally , without
+        additional compensation. In the event that you as a Strategy Follower
+        ranks among top trade performers, you acknowledge and agree that by this
+        fact you are making yourself available to us for publicity, advertising
+        and promotional activities relating to JustCopyTrade Services, our
+        websites and/or our business generally, without additional compensation,
+        from the date of your entering the top until such time you are no longer
+        in the top. We reserve the right to make public statements about you and
+        your performance, on-air, on the Internet, or otherwise. You agree not
+        to charge or demand, or attempt or seek to charge or demand, any fee or
+        additional consideration or compensation, or impose any additional
+        conditions, in respect of the fulfillment of any such obligations.
+      </p>
+      <p>
+        <em>
+          4. Use of JustCopyTrade Platform and Services by Strategy Followers
+        </em>
+      </p>
+      <p>
+        <em>Regulatory Compliance.</em> You represent that only your own
+        proprietary capital is being used to fund your account. If this is not
+        the case, you represent that you are properly registered or licensed in
+        the jurisdiction where you are located, or exempt from such registration
+        or licensure. You agree to immediately inform us in the event that the
+        foregoing representation is no longer accurate.
+        <em>Demo Version.</em> We may provide you with evaluation version of the
+        JustCopyTrade Platform for 30 days period.
+        <em>Disclaimer Regarding Investment Decisions and Trading.</em>{' '}
+        Decisions to buy, sell, hold or trade in foreign currencies and other
+        investments involve risk and are best made based on the advice of
+        qualified financial professionals. Any trading in investments involves a
+        risk of substantial losses. YOU AGREE THERE ARE RISKS INVOLVED IN
+        IMPLEMENTING INVESTMENT STRATEGIES AND IN INVESTMENTS IN GENERAL. The
+        use of any trading system, strategy or signals, including any system,
+        strategy or signals included as a sample in, or that is or was developed
+        using, the JustCopyTrade Platform and the Services or any data,
+        information, products or services provided by or through the
+        JustCopyTrade Platform and the Services, including trade signals from
+        Strategy Providers, does not and cannot guarantee that you will make
+        profits, increase profits or minimize losses. You understand that there
+        can be no guarantee that your use of the Services or the information
+        disseminated through the JustCopyTrade Platform will result in profits.
+        Further, you understand that such your use may result in substantial
+        losses. Additionally, trading results based upon hypothetical or
+        historically-tested trading strategies or systems do not necessarily
+        compare to results of actual trading. No hypothetical or historical
+        trading record can account for the level of risk present in actual
+        trading. Numerous factors relating to market conditions, the existence
+        or nonexistence of specific events or circumstances, human error,
+        human/emotional reaction to losses during actual trading, inherent
+        limitations of certain hypothetical or historically tested models,
+        particularly ones that do not operate at the “tick” (as opposed to open,
+        high, low, close) level, volume of trade and liquidity differences
+        between hypothetical models and actual trades, and other supply/demand
+        differences that may not be addressed by hypothetical models, and other
+        conditions and circumstances, can account for these differences. There
+        is no guarantee that your hypothetical trading results, even if tested
+        against historical data, will produce comparable actual trading results.
+        In fact, there are frequently sharp differences between hypothetical or
+        historically tested performance results and the actual results
+        subsequently achieved by any particular trading system or strategy. The
+        possible reasons for this include the likelihood that no trading
+        strategy or system can, even with automated trading, be precisely
+        executed as designed. YOU AGREE THAT FUTURE RESULTS MAY NOT BE
+        PROFITABLE OR EQUAL TO REPRESENTATIONS OF PAST PERFORMANCE; REAL,
+        INDICATED OR IMPLIED. The practice of “Day Trading” involves
+        particularly high risks and can cause you to lose substantial sums of
+        money. Before undertaking any trading program, strategy or starting
+        following a certain Strategy Provider, you should consult a qualified
+        financial professional. Please consider carefully whether such trading
+        is suitable for you in light of your financial condition and ability to
+        bear financial risks. YOU ALONE ASSUME SOLE RESPONSIBILITY FOR ANY
+        INVESTMENTS OR DECISIONS YOU MAKE BASED ON THE JUSTCOPYTRADE PLATFORM OR
+        ANY DATA, INFORMATION, PRODUCTS OR SERVICES PROVIDED BY OR THROUGH THE
+        JUSTCOPYTRADE PLATFORM, INCLUDING TRADE SIGNALS FROM SIGNAL PROVIDERS.
+        UNDER NO CIRCUMSTANCES SHALL WE BE LIABLE FOR ANY LOSS OR DAMAGE YOU OR
+        ANYONE ELSE INCURS AS A RESULT OF ANY TRADING OR INVESTMENT ACTIVITY
+        THAT YOU OR ANYONE ELSE ENGAGES IN BASED ON ANY INFORMATION, DATA OR
+        MATERIAL YOU RECEIVE THROUGH THE JUSTCOPYTRADE PLATFORM, INCLUDING TRADE
+        SIGNALS FROM SIGNAL PROVIDERS, OR AS A RESULT OF USE OF THE
+        JUSTCOPYTRADE PLATFORM. You also agree to bear complete responsibility
+        for your choice of Strategy Provider(s) and acknowledge that we have not
+        and will not make any specific recommendations to you upon which you are
+        entitled to rely. No representation is being made that any account will
+        or is likely to achieve profits or losses similar to those achieved by
+        Strategy Providers or any other traders. Your attempt to follow any
+        trades provided by Strategy Providers may be hindered by the inherent
+        delay in receiving and executing that trade; market liquidity, and your
+        own trading issues, including, but not limited to slippage, commissions,
+        trading software, and internet outages. The returns for Strategy
+        Providers listed throughout the JustCopyTrade Platform are hypothetical
+        in that they represent returns in a model account. The model account may
+        rise or fall by the exact single contract profit and loss achieved by
+        clients trading actual money pursuant to the listed system’s trading
+        signals on the appropriate dates, or if no actual client profit or loss
+        is available, by the hypothetical single contract profit and loss of
+        trades generated by the system’s trading signals over the test period.
+        The actual percentage gains/losses experienced by you will vary
+        depending on many factors, including, but not limited to: the settings
+        you have selected for trades mirroring, starting account balances,
+        market behavior, your account settings, and the performance of Strategy
+        Providers. Because of this, actual percentage gains/losses experienced
+        by you may be materially different than the percentage gains/losses as
+        presented through the JustCopyTrade Platform.
+        <em>No Advice or Solicitation.</em> The JustCopyTrade Platform is for
+        informational purposes only. You acknowledge and agree that the
+        JustCopyTrade Platform is not intended to supply investment or financial
+        advice or a recommendation to trade using any specific Strategy
+        Provider. We or Strategy Providers offer no advice regarding the nature,
+        potential value, or suitability or any particular currency, transaction,
+        investment or investment strategy. You should not construe any data or
+        information provided by Strategy Providers as legal, tax, investment,
+        financial or other advice. Nothing in the JustCopyTrade Platform is a
+        solicitation to buy, sell or hold foreign currencies or other
+        investments or financial instruments.
+        <em>Refund Policy.</em> We will issue a refund to Strategy Follower for
+        losses caused by Platform Errors, if the Strategy Follower provides
+        timely notice of the error to us as described below. A “Platform Error”
+        occurs if a trading signal that should have been rejected according to
+        the Strategy Follower’s Account settings is validated and accepted by us
+        and submitted to the Strategy Follower’s Broker, or if a trading signal
+        that should have been accepted according to the Strategy Follower’s
+        Account settings is rejected by us and not submitted to the Strategy
+        Follower’s Broker. We shall not be responsible for refunding lost
+        profits resulting from Platform Errors under any circumstances. Errors
+        of Strategy Providers shall not be considered Platform Errors, and we
+        shall not be responsible for refunding losses or lost profits resulting
+        from such errors under any circumstances. Due to system architecture
+        Strategy Followers may incur delays in trade copying. We do not
+        compensate for delays up to 7 minutes. In order to receive a refund of
+        losses caused by Platform Errors, you must notify us in writing of your
+        potential claim. You must deliver the written notice to us as soon as
+        you knew, or should have known, of the Platform Error, but in any event,{' '}
+        <em>
+          no later than twenty-four hours after the Platform Error occurred
+        </em>
+        . If we do not receive such notice from you within twenty-four hours
+        after the Platform Error occurred, we will not be liable for any losses
+        resulting from the Platform Error. If we confirm that the Platform Error
+        occurred with respect to your Account, and you provided the required
+        notice to us within twenty-four hours, you will receive a refund of your
+        losses caused by the Platform Error (not including lost profits). You
+        are required to review your account statements and monitor your account
+        status at least daily to ensure that the trades you ordered were placed,
+        and that all trades that were made on your account were authorized by
+        you.
+      </p>
+      <p>
+        <em>5. Strategy Provider’s Services and Obligations</em>
+      </p>
+      <p>
+        <em>Strategy Provider’s Exempt Status.</em> Strategy Provider represents
+        and warrants that it does not direct or guide any customer accounts or
+        provide trading advice based on, or tailored to the forex interests or
+        cash market positions or other circumstances or characteristics of any
+        customer. The Strategy Provider further represents that it has obtained
+        all required domestic and foreign governmental and regulatory licenses
+        or registrations as may be necessary to provide Service Provider’s
+        Services and carry out its obligations and duties under these Terms, or
+        is exempt from such registration or licensure. The Strategy Provider
+        agrees and acknowledges that we are entitled at our sole discretion to
+        grant a license to our partners who may use our platform under their
+        brand and trade dress. The Strategy Provider hereby consents to provide
+        Strategy Provider’s Services through our licensees’ websites and under
+        their brands.
+        <em>Verification of Strategy Providers.</em> The name on your Account
+        with us must match your true and legal name and identity, and must match
+        the name on the payment accounts used to withdraw monies. To verify your
+        identity, we may request at any time:
+      </p>
+      <ul>
+        <li>
+          <p>
+            satisfactory proof of identity (including but not limited to copies
+            of a valid passport/identity card and/or any payment cards used),
+            and
+          </p>
+        </li>
+        <li>
+          <p>
+            satisfactory proof of address (including but not limited to a recent
+            utility bill or bank statement).
+          </p>
+        </li>
+      </ul>
+      <p>
+        In the event Strategy Provider is a corporate entity, Strategy Provider
+        shall provide its formation documents and information sufficient for us
+        to determine the corporate or business entity’s identity, and the
+        authority of its business representative to act on its behalf, as well
+        as the business representative’s identity. If you do not supply such
+        documentation to us we may suspend or terminate your Account and we may
+        withhold the account balance until you supply such documentation and our
+        verification process is completed satisfactorily.
+        <em>Ranking.</em> As you trades as a Strategy Provider, your performance
+        and position in the JustCopyTrade Platform ranking will evolve; moving
+        up and down. You agree that we, at our sole discretion, decide what data
+        and information are taken into consideration in order to calculate your
+        place in the ranking.
+        <em>Non-Solicitation.</em> Strategy Provider agrees not to solicit to
+        offer the services the same as or similar to Strategy Provider’s
+        Services to any Strategy Follower while engaged in providing of Strategy
+        Provider’s Services or for 6 month thereafter. Strategy Providers agree
+        that it is impossible to fix with certainty the damage to us for breach
+        of this non-solicitation provision, and Strategy Providers therefore
+        agree that they will pay, for each breach of this provision, as
+        liquidated damages, an amount equal to one hundred percent (100%) of the
+        involved Strategy Follower commission accrued from this Strategy
+        Follower over the most recent 6 full months. Such amount will be due and
+        payable by the Strategy Provider within 10 days of receipt of a notice
+        from us.
+        <em>Independent Contractor.</em> Strategy Provider is an independent
+        contractor, and not our employee or agent, nor shall anything herein be
+        construed as making Strategy Provider a partner or co-venturer with us
+        or any of our affiliate. Strategy Provider shall have no authority to
+        bind, obligate or represent us.
+        <em>Compensation.</em> Strategy Provider receives compensation for
+        providing Strategy Provider’s Services to Strategy Followers calculated
+        and paid by us according to the payment terms published on our website.
+        The payment terms are the integral part of these Terms. Payment terms
+        depend on the type of your Account with us (Pro, Live, High Risk, Demo,
+        etc.), amount of commissions received from Brokers, your performance and
+        other criteria set out by us at our discretion. We assign the Strategy
+        Provider’s Account types to each Strategy Provider at our sole
+        discretion. Such compensation paid to the Strategy Provider will
+        constitute full payment for Strategy Provider’s Services. The Strategy
+        Provider will not receive any additional benefits or compensation under
+        these Terms. Strategy Provider’s compensation is calculated on a monthly
+        calendar basis within 15 business days of the next calendar month. For
+        each specific calendar month that a Strategy Provider presents a
+        negative balance (the end of month valuation of the Strategy Provider’s
+        equity is lower than its valuation at the beginning of the month), the
+        Strategy Provider will not be compensated, unless he has a Pro Account.
+        The Strategy Providers, who apply abusive trading behavior, introducing
+        high risks to their Strategy Followers, will be examined carefully and
+        if deemed malicious, they will be refused compensation and their Account
+        may be terminated.
+        <em>Withdrawals.</em> Strategy Provider may request withdrawals of
+        earned compensation at any time and in case all of the following
+        conditions have been met:
+      </p>
+      <ul>
+        <li>
+          <p>you have over US$100.00 at your balance,</p>
+        </li>
+        <li>
+          <p>there are no withdrawal method restrictions,</p>
+        </li>
+        <li>
+          <p>your identity has been sufficiently verified, and</p>
+        </li>
+        <li>
+          <p>you are in compliance with these Terms.</p>
+        </li>
+      </ul>
+      <p>
+        We will pay you in the US dollars via bank wire transfer or other
+        payment methods (if applicable and at our sole discretion). You are
+        responsible for any applicable taxes, duties, bank or payment provider
+        fees or surcharges that may occur regarding the transaction. We may
+        report and withhold any amount from your balance (for example, taxes) in
+        order to comply with any applicable law. After we accept your withdrawal
+        request we will pay you in 15 business days. In case these Terms are
+        terminated by us or by Strategy Provider without a cause payment must be
+        requested within 30 days of receipt of the termination notification.
+        Payment requests received after this period will be rejected.
+      </p>
+      <p>
+        <em>6. Intellectual Property Rights and Content</em>
+      </p>
+      <p>
+        <em>Our Intellectual Property Rights.</em> We own and protect from
+        illegal use the exclusive rights in Our Intellectual Property, in
+        particular:
+      </p>
+      <ul>
+        <li>
+          <p>Programming code and design of JustCopyTrade Platform;</p>
+        </li>
+        <li>
+          <p>JustCopyTrade databases;</p>
+        </li>
+        <li>
+          <p>Our trademarks, service marks and logos</p>
+        </li>
+        <li>
+          <p>
+            Other content, which is not Third Parties Intellectual Property.
+          </p>
+        </li>
+      </ul>
+      <p>
+        No rights in Our Intellectual Property are granted to you, except for
+        the rights explicitly indicated in these Terms. We reserve the right to
+        prosecute any infringers in court and/or through other authorities in
+        order to protect Our Intellectual Property.
+        <em>Third Parties Intellectual Property Rights.</em> Trademarks or
+        service marks are of their respective owners. Third-party trademarks are
+        used:
+      </p>
+      <ul>
+        <li>
+          <p>With their owners consent, or</p>
+        </li>
+        <li>
+          <p>
+            To describe and/or refer to the particular product, company or
+            service underlying the trademark. In this case we are not affiliated
+            with, endorsed by or sponsored by any of the trademark owners.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>7. Disclaimer of Warranties</em>
+      </p>
+      <p>
+        Your use of the JustCopyTrade Platform and the Services and any other
+        information, products or software made available through the
+        JustCopyTrade Platform or the Services is at your sole risk and
+        discretion and we hereby disclaim all liability to you or any third
+        party relating thereto. The JustCopyTrade Platform and JustCopyTrade
+        Services, and all materials, information, products and services included
+        therein, are provided on an “AS IS” and “AS AVAILABLE” basis without
+        warranties of any kind. WE EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY
+        KIND, EXPRESS, IMPLIED OR STATUTORY, RELATING TO THE JUSTCOPYTRADE
+        PLATFORM AND THE SERVICES, INCLUDING WITHOUT LIMITATION THE WARRANTIES
+        OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+        NON-INFRINGEMENT OF PROPRIETARY RIGHTS, COURSE OF DEALING OR COURSE OF
+        PERFORMANCE. Strategy Providers disclaim the same warranties as set out
+        above relating to Strategy Provider’s Services furnished to Strategy
+        Followers. We disclaim any warranties:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Regarding the security, accuracy, reliability, timeliness and
+            performance of the JustCopyTrade Platform and JustCopyTrade
+            Services.
+          </p>
+        </li>
+        <li>
+          <p>
+            That the JustCopyTrade Platform and JustCopyTrade Services will be
+            error-free or that any errors will be corrected.
+          </p>
+        </li>
+        <li>
+          <p>
+            That the JustCopyTrade Platform and JustCopyTrade Services will be
+            of any particular quality, meet any standards or requirements, or
+            conform to any of your expectations in this regard.
+          </p>
+        </li>
+      </ul>
+      <p>
+        No advice or information, whether oral or written, obtained by you from
+        us, will create any warranty not expressly stated in these Terms. Some
+        states or jurisdictions do not allow the exclusion of certain
+        warranties. Accordingly, some of the above exclusions may not apply to
+        you.
+        <em>Compatibility.</em> We do not warrant that the JustCopyTrade
+        Platform and JustCopyTrade Services will be compatible with all hardware
+        and software which you may use or which may exist or will exist in the
+        future.
+      </p>
+      <p>
+        <em>8. Third Party Products, Services and Information</em>
+      </p>
+      <p>
+        The JustCopyTrade Platform may be connected to or utilize software,
+        platforms, products or services developed or provided by various third
+        party providers, Brokers and/or software developers (“Third-Party
+        Services”). Trade signals, other data and information and Third-Party
+        Services available through or used in conjunction with the JustCopyTrade
+        Platform may be provided by Strategy Providers or third parties (e.g.,
+        Brokers or trading providers/platforms connected to the JustCopyTrade
+        Platform). You recognize and acknowledge that:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Use of any such Third-Party Services will be governed by the
+            applicable license agreements or terms of services, if any, with
+            such third party. You shall abide by the terms of these agreements.
+            WE ARE NOT RESPONSIBLE FOR PERFORMANCE AND/OR RELIABILITY OF ANY
+            THIRD PARTY SERVICES AND WILL HAVE NO LIABILITY OF ANY KIND FOR YOUR
+            USE OF SUCH THIRD PARTY SERVICES AND MAKE NO WARRANTY OF ANY KIND
+            WITH RESPECT TO SUCH THIRD PARTY SERVICES.
+          </p>
+        </li>
+        <li>
+          <p>
+            We conduct no investigation or review of any of such Third-Party
+            Services or trade signals provided by Strategy Providers, and do not
+            recommend, endorse, approve or disapprove of any of them.
+          </p>
+        </li>
+        <li>
+          <p>
+            The accuracy of any data or information, including trade signals,
+            available through or used in conjunction with the JustCopyTrade
+            Platform should be checked before you rely on it.
+          </p>
+        </li>
+        <li>
+          <p>
+            The accuracy, completeness, timeliness, results obtained from use,
+            and correct sequencing of information of Third-Party Services or
+            from Strategy Providers made available through the JustCopyTrade
+            Platform is not and cannot be guaranteed by us.
+          </p>
+        </li>
+        <li>
+          <p>
+            None of Strategy Providers is recommended by us. You are solely
+            responsible for selection of a certain Strategy Provider(s) and all
+            the consequences of following their trade signals.
+          </p>
+        </li>
+        <li>
+          <p>
+            You are solely responsible for selection and opening and maintaining
+            a trading account with a Broker.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>External Links and Advertisement.</em> We have the right to insert,
+        place or include advertisements or links to third-party websites of any
+        type through the JustCopyTrade Platform. We are not responsible for such
+        advertisements and their content. The linked sites are not under our
+        control and we are not responsible for the contents of any linked site
+        or any link contained in a linked site, or any changes or updates to
+        such sites. We are providing these links to you only as a convenience,
+        and the inclusion of any link does not imply endorsement by us of the
+        site.
+      </p>
+      <p>
+        <em>9. Limitation of Liability</em>
+      </p>
+      <p>
+        IN NO EVENT WILL WE, OUR OFFICERS, DIRECTORS, EMPLOYEES OR AGENTS, BE
+        LIABLE TO YOU FOR ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION,
+        INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING
+        OUT OF OR IN CONNECTION WITH YOUR USE OF THE JUSTCOPYTRADE PLATFORM AND
+        THE SERVICES WHETHER THE DAMAGES ARE FORESEEABLE AND WHETHER OR NOT WE
+        HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL
+        SIGNAL PROVIDERS, BE LIABLE TO SIGNAL FOLLOWERS FOR ANY DAMAGES
+        WHATSOEVER, INCLUDING WITHOUT LIMITATION, INDIRECT, INCIDENTAL, SPECIAL,
+        PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH
+        THEIR USE OF THE JUSTCOPYTRADE PLATFORM AND THE SERVICES.
+        <em>Force Majeure.</em> We will not be liable hereunder by reason of any
+        failure or delay in the performance of its obligations hereunder on
+        account of events beyond its reasonable control, which may include,
+        without limitation, denial-of-service attacks, strikes, shortages,
+        riots, insurrection, fires, flood, storm, explosions, acts of God, war,
+        terrorism, governmental action, labor conditions, earthquakes, material
+        shortages, extraordinary Internet congestion or extraordinary
+        connectivity issues experienced by telecommunications providers and
+        unrelated to our infrastructure or connectivity to the Internet, or
+        failure at our co-location facility, (each a “Force Majeure Event”).
+        Upon the occurrence of a Force Majeure Event, we will be excused from
+        any further performance of our obligations affected by the Force Majeure
+        Event for so long as the event continues.
+      </p>
+      <p>
+        <em>10. Indemnification</em>
+      </p>
+      <p>
+        You agree to defend, indemnify, and hold us, our parents, subsidiaries,
+        affiliates, customers, vendors, and their respective officers,
+        directors, employees and agents, harmless from and against any claims,
+        liabilities, damages, losses, and expenses, including without limitation
+        reasonable attorney’s fees and costs, arising out of or in any way
+        connected with:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Your access to or use of the JustCopyTrade Platform and the
+            Services.
+          </p>
+        </li>
+        <li>
+          <p>Your violation of these Terms.</p>
+        </li>
+        <li>
+          <p>Your violation of any applicable law, rule or regulation.</p>
+        </li>
+        <li>
+          <p>
+            Your violation of any third party right, including without
+            limitation any intellectual property right, publicity,
+            confidentiality, property or privacy right.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>11. Your Feedback</em>
+      </p>
+      <p>
+        If you choose to communicate to us any feedback, ideas or suggestions
+        for improvement of the JustCopyTrade Platform and the Services, you
+        grant us free-of-charge, irrevocable, non-exclusive, transferable right
+        to use, modify, share, distribute and communicate such feedback for any
+        and all commercial or noncommercial purposes, without charge and free of
+        any obligation of attribution. You warrant that any such feedback you
+        communicated to us is not subject to any license or any other third
+        party right.
+      </p>
+      <p>
+        <em>12. Modifications</em>
+      </p>
+      <p>We reserve the right, at our sole discretion:</p>
+      <ul>
+        <li>
+          <p>
+            To modify or revise these Terms at any time by posting the amended
+            Terms on our website. Please check the most current Terms to ensure
+            that you are aware of all the terms governing your use of the
+            JustCopyTrade Platform and the Services.
+          </p>
+        </li>
+        <li>
+          <p>
+            To make changes, update or discontinue the JustCopyTrade Platform
+            and the Services or any format, feature or functionality thereof at
+            any time with or without notifying you.
+          </p>
+        </li>
+        <li>
+          <p>
+            To terminate or restrict access to the JustCopyTrade Platform and
+            the Services for any reason whatsoever.
+          </p>
+        </li>
+      </ul>
+      <p>
+        Your continued use of the JustCopyTrade Platform and Services after a
+        change or update has been made will constitute your acceptance to the
+        revised Terms. If you do not agree with the modifications, please
+        discontinue use of the JustCopyTrade Platform and the Services
+        immediately, and cancel the Account you have opened with us. These Terms
+        remain effective from the date of acceptance until terminated by you or
+        us in accordance with these Terms.
+      </p>
+      <p>
+        <em>13. Termination and Account Cancellation</em>
+      </p>
+      <p>
+        You may terminate these Terms at any time by sending a prior written
+        notice to us and ceasing to use the JustCopyTrade Platform and the
+        Services. Without limiting other remedies, we may suspend or terminate
+        these Terms with you, or may terminate or suspend your use of the
+        JustCopyTrade Platform and the Services at any time if:
+      </p>
+      <ul>
+        <li>
+          <p>You violate any term of these Terms and Conditions.</p>
+        </li>
+        <li>
+          <p>
+            You infringe proprietary rights, rights of privacy, or intellectual
+            property rights of any person, business or organization.
+          </p>
+        </li>
+        <li>
+          <p>
+            You engaged in other actions related to or in the course of using
+            the JustCopyTrade Platform and the Services that may be illegal or
+            cause liability, harm, harassment, abuse or disruption for you,
+            other users, us, any other third parties or for the JustCopyTrade
+            Platform.
+          </p>
+        </li>
+        <li>
+          <p>It is required by applicable law.</p>
+        </li>
+        <li>
+          <p>
+            We cease offering the JustCopyTrade Services and/or discontinued the
+            JustCopyTrade Platform.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>Termination with Strategy Providers.</em> In addition, we may
+        suspend or terminate these Terms with Strategy Provider, or may
+        terminate or suspend Strategy Provider’s use of the JustCopyTrade
+        Platform and JustCopyTrade Services at any time if:
+      </p>
+      <ul>
+        <li>
+          <p>
+            You abuse the JustCopyTrade Platform by sending large amounts of
+            trades.
+          </p>
+        </li>
+        <li>
+          <p>
+            You apply abusive trading behavior, introducing high risks to their
+            Strategy Followers.
+          </p>
+        </li>
+        <li>
+          <p>You have not complied with the verification process.</p>
+        </li>
+        <li>
+          <p>
+            Your Account is inactive (there has been no trading activity) for 6
+            months.
+          </p>
+        </li>
+      </ul>
+      <p>
+        Notwithstanding the foregoing, we also reserve the right to terminate
+        the access to JustCopyTrade Platform and the Services or cancel your
+        Account at any time and for any reason.
+        <em>Effect of Termination.</em> Upon termination of these Terms all
+        licenses and rights to use the JustCopyTrade Platform shall immediately
+        terminate; and you will immediately cease any and all use of the
+        JustCopyTrade Platform and the Services. Upon any termination you will
+        no longer be able to access any content stored at or available through
+        your Account. We will have no obligation to maintain any information and
+        content stored in our database related to your Account or to forward any
+        information to you or any third party. Any suspension or termination of
+        these Terms will not affect your obligations to us and/or other users
+        under these Terms, including, without limitation, proprietary rights and
+        ownership, indemnification and limitation of liability, confidentiality,
+        which reasonably are intended to survive such suspension or termination.
+      </p>
+      <p>
+        <em>14. Jurisdiction</em>
+      </p>
+      <p>
+        <em>Choice of Law.</em> You agree that the laws of the British Virgin
+        Islands govern these Terms, their subject matter, the relationship
+        between you and us, any action related these Terms, and any claim or
+        dispute it may arise, without regard to the conflict of laws rules.
+        <em>Location for Resolving Disputes.</em> You further agree that any
+        disputes or claims related to these Terms will be resolved by state
+        courts located in the British Virgin Islands, and you agree and submit
+        to the exercise of personal jurisdiction of such courts for the purpose
+        of litigating any such claim or action. BY AGREEING TO THESE TERMS, YOU
+        ARE:
+      </p>
+      <ul>
+        <li>
+          <p>
+            WAIVING CLAIMS THAT YOU MIGHT OTHERWISE HAVE AGAINST US BASED ON THE
+            LAWS OF OTHER JURISDICTIONS, INCLUDING YOUR OWN.
+          </p>
+        </li>
+        <li>
+          <p>
+            IRREVOCABLY CONSENTING TO THE EXCLUSIVE JURISDICTION OF, AND VENUE
+            IN, THE STATE COURTS LOCATED IN THE BRITISH VIRGIN ISLANDS OVER ANY
+            DISPUTES OR CLAIMS YOU HAVE WITH US.
+          </p>
+        </li>
+        <li>
+          <p>
+            SUBMITTING YOURSELF TO THE PERSONAL JURISDICTION OF SUCH COURTS FOR
+            THE PURPOSE OF RESOLVING ANY SUCH DISPUTES OR CLAIMS.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>15. Miscellaneous</em>
+      </p>
+      <p>
+        <em>Notices.</em> Any notices or other communications permitted or
+        required under these Terms will be in writing and given by us:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Via email (to the address that you provide during registration), or
+          </p>
+        </li>
+        <li>
+          <p>By posting to our website.</p>
+        </li>
+      </ul>
+      <p>
+        <em>Consent to Receive Communications in Electronic Form.</em> For
+        contractual purposes, you:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Consent to receive communications from us in an electronic form via
+            the email address you have submitted; and
+          </p>
+        </li>
+        <li>
+          <p>
+            Agree that the Terms and all agreements, notices, disclosures, and
+            other communications that we provide to you electronically satisfy
+            any legal requirement that such communications would satisfy if it
+            were in writing.
+          </p>
+        </li>
+      </ul>
+      <p>
+        <em>Assignment.</em> You will not assign these Terms or assign any
+        rights or delegate any obligations hereunder, in whole or in part,
+        whether voluntarily or by operation of law, without our prior written
+        consent. Any purported assignment or delegation by you without our
+        appropriate prior written consent will be null and void. We may assign
+        these Terms or any rights hereunder without your consent.
+        <em>No Waiver.</em> The failure by us to exercise, or delay in
+        exercising, a legal right or remedy provided by these Terms or by law
+        shall not constitute a waiver of our right or remedy.
+        <em>Severability and Integration.</em> These Terms and Conditions
+        constitute the entire agreement between you and us and supersede all
+        previous written or oral agreements. If any part of these Terms is held
+        invalid or unenforceable, that portion shall be construed in a manner
+        consistent with applicable law to reflect, as nearly as possible, the
+        original intentions of the parties, and the remaining portions shall
+        remain in full force and effect.
+      </p>
+      <p>
+        <em>Last updated: June 23, 2021</em>
+      </p>
+    </div>
+  )
+}
+
+export default TermsAndConditions
