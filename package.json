@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mdx-js/loader": "^1.6.22",
+    "@next/mdx": "^11.0.1",
     "next": "11.0.1",
     "notion-client": "^4.7.3",
     "notion-utils": "^4.7.3",
