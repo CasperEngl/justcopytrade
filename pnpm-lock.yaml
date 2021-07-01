@@ -3,15 +3,19 @@ lockfileVersion: 5.3
 specifiers:
   '@mdx-js/loader': ^1.6.22
   '@next/mdx': ^11.0.1
+  '@tailwindcss/forms': ^0.3.3
   '@tailwindcss/typography': ^0.4.1
+  '@types/nodemailer': ^6.4.2
   '@types/react': ^17.0.11
   '@types/react-dom': ^17.0.8
   '@typescript-eslint/parser': ^4.28.0
   autoprefixer: ^10.2.6
+  clsx: ^1.1.1
   eslint: 7.29.0
   eslint-config-next: 11.0.1
   eslint-import-resolver-typescript: ^2.4.0
   next: 11.0.1
+  nodemailer: ^6.6.2
   notion-client: ^4.7.3
   notion-utils: ^4.7.3
   postcss: ^8.3.5
@@ -19,22 +23,30 @@ specifiers:
   prettier-plugin-tailwind: ^2.2.12
   react: 17.0.2
   react-dom: 17.0.2
+  react-hook-form: ^7.9.0
   react-notion-x: ^4.7.4
+  string-strip-html: ^8.3.0
   tailwindcss: ^2.2.2
   typescript: ^4.3.4
 
 dependencies:
   '@mdx-js/loader': 1.6.22_react@17.0.2
   '@next/mdx': 11.0.1_@mdx-js+loader@1.6.22
+  '@tailwindcss/forms': 0.3.3_tailwindcss@2.2.2
+  clsx: 1.1.1
   next: 11.0.1_2dbe935e140170ce01c975771f1adcbd
+  nodemailer: 6.6.2
   notion-client: 4.7.3
   notion-utils: 4.7.3
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
+  react-hook-form: 7.9.0_react@17.0.2
   react-notion-x: 4.7.4_react-dom@17.0.2+react@17.0.2
+  string-strip-html: 8.3.0
 
 devDependencies:
   '@tailwindcss/typography': 0.4.1_tailwindcss@2.2.2
+  '@types/nodemailer': 6.4.2
   '@types/react': 17.0.11
   '@types/react-dom': 17.0.8
   '@typescript-eslint/parser': 4.28.0_eslint@7.29.0+typescript@4.3.4
@@ -513,6 +525,15 @@ packages:
       defer-to-connect: 2.0.1
     dev: false
 
+  /@tailwindcss/forms/0.3.3_tailwindcss@2.2.2:
+    resolution: {integrity: sha512-U8Fi/gq4mSuaLyLtFISwuDYzPB73YzgozjxOIHsK6NXgg/IWD1FLaHbFlWmurAMyy98O+ao74ksdQefsquBV1Q==}
+    peerDependencies:
+      tailwindcss: '>=2.0.0'
+    dependencies:
+      mini-svg-data-uri: 1.3.3
+      tailwindcss: 2.2.2_72be89de93206f86f2d67dd5290ec14d
+    dev: false
+
   /@tailwindcss/typography/0.4.1_tailwindcss@2.2.2:
     resolution: {integrity: sha512-ovPPLUhs7zAIJfr0y1dbGlyCuPhpuv/jpBoFgqAc658DWGGrOBWBMpAWLw2KlzbNeVk4YBJMzue1ekvIbdw6XA==}
     peerDependencies:
@@ -567,6 +588,16 @@ packages:
   /@types/node/15.12.4:
     resolution: {integrity: sha512-zrNj1+yqYF4WskCMOHwN+w9iuD12+dGm0rQ35HLl9/Ouuq52cEtd0CH9qMgrdNmi5ejC1/V7vKEXYubB+65DkA==}
     dev: false
+
+  /@types/node/15.12.5:
+    resolution: {integrity: sha512-se3yX7UHv5Bscf8f1ERKvQOD6sTyycH3hdaoozvaLxgUiY5lIGEeH37AD0G0Qi9kPqihPn0HOfd2yaIEN9VwEg==}
+    dev: true
+
+  /@types/nodemailer/6.4.2:
+    resolution: {integrity: sha512-yhsqg5Xbr8aWdwjFS3QjkniW5/tLpWXtOYQcJdo9qE3DolBxsKzgRCQrteaMY0hos8MklJNSEsMqDpZynGzMNg==}
+    dependencies:
+      '@types/node': 15.12.5
+    dev: true
 
   /@types/parse-json/4.0.0:
     resolution: {integrity: sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==}
@@ -1185,6 +1216,11 @@ packages:
     resolution: {integrity: sha1-0dyXOSAxTfZ/vrlCI7TuNQI56Ws=}
     dependencies:
       mimic-response: 1.0.1
+    dev: false
+
+  /clsx/1.1.1:
+    resolution: {integrity: sha512-6/bPho624p3S2pMyvP5kKBPXnI3ufHLObBFCfgx+LkeR5lg2XYy2hqZqUf45ypD8COn2bhgGJSUE+l5dhNBieA==}
+    engines: {node: '>=6'}
     dev: false
 
   /collapse-white-space/1.0.6:
@@ -2307,6 +2343,10 @@ packages:
     resolution: {integrity: sha512-ckAx3EkUr5XjDwjEHDorHxRO2Kb7z6Z2Sxul4MbBkN8Nho7XDslQsgMJT+CiJ5Z4TgRxxvKHEpuLE3imzqy4Lg==}
     dev: false
 
+  /html-entities/2.3.2:
+    resolution: {integrity: sha512-c3Ab/url5ksaT0WyleslpBEthOzWhrjQbg75y7XUsfSzi3Dgzt0l8w5e7DylRn15MTlMMD58dTfzddNS2kcAjQ==}
+    dev: false
+
   /html-tags/3.1.0:
     resolution: {integrity: sha512-1qYz89hW3lFDEazhjW0yVAV87lw8lVkrJocr72XmBkMKsoSVJCQx3W8BXsC7hO2qAt8BoVjYjtAcZ9perqGnNg==}
     engines: {node: '>=8'}
@@ -2812,11 +2852,9 @@ packages:
 
   /lodash.clonedeep/4.5.0:
     resolution: {integrity: sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=}
-    dev: true
 
   /lodash.isplainobject/4.0.6:
     resolution: {integrity: sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs=}
-    dev: true
 
   /lodash.merge/4.6.2:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
@@ -2838,12 +2876,20 @@ packages:
     resolution: {integrity: sha1-NhY1Hzu6YZlKCTGYlmC9AyVP0Ak=}
     dev: true
 
+  /lodash.trim/4.5.1:
+    resolution: {integrity: sha1-NkJefukL5KpeJ7zruFt9EepHqlc=}
+    dev: false
+
   /lodash.truncate/4.4.2:
     resolution: {integrity: sha1-WjUNoLERO4N+z//VgSy+WNbq4ZM=}
     dev: true
 
   /lodash.uniq/4.5.0:
     resolution: {integrity: sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=}
+
+  /lodash.without/4.4.0:
+    resolution: {integrity: sha1-PNRXSgC2e643OpS3SHcmQFB7eqw=}
+    dev: false
 
   /lodash/4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
@@ -2979,6 +3025,11 @@ packages:
       react: 17.0.2
       react-dom: 17.0.2_react@17.0.2
       shallowequal: 1.1.0
+    dev: false
+
+  /mini-svg-data-uri/1.3.3:
+    resolution: {integrity: sha512-+fA2oRcR1dJI/7ITmeQJDrYWks0wodlOz0pAEhKYJ2IVc1z0AnwJUsKY2fzFmPAM3Jo9J0rBx8JAA9QQSJ5PuA==}
+    hasBin: true
     dev: false
 
   /minimalistic-assert/1.0.1:
@@ -3172,6 +3223,11 @@ packages:
 
   /node-releases/1.1.73:
     resolution: {integrity: sha512-uW7fodD6pyW2FZNZnp/Z3hvWKeEW1Y8R1+1CnErE8cXFXzl5blBOoVB41CvMer6P6Q0S5FXDwcHgFd1Wj0U9zg==}
+
+  /nodemailer/6.6.2:
+    resolution: {integrity: sha512-YSzu7TLbI+bsjCis/TZlAXBoM4y93HhlIgo0P5oiA2ua9Z4k+E2Fod//ybIzdJxOlXGRcHIh/WaeCBehvxZb/Q==}
+    engines: {node: '>=6.0.0'}
+    dev: false
 
   /normalize-package-data/2.5.0:
     resolution: {integrity: sha512-/5CMN3T0R4XTj4DcGaexo+roZSdSFW/0AOOTROrjxzCG1wrWXEsGbRKevjlIL+ZDE4sZlJr5ED4YW0yqmkK+eA==}
@@ -3751,6 +3807,36 @@ packages:
       safe-buffer: 5.2.1
     dev: false
 
+  /ranges-apply/5.1.0:
+    resolution: {integrity: sha512-VF3a0XUuYS/BQHv2RaIyX1K7S1hbfrs64hkGKgPVk0Y7p4XFwSucjTTttrBqmkcmB/PZx5ISTZdxErRZi/89aQ==}
+    dependencies:
+      '@babel/runtime': 7.14.6
+      ranges-merge: 7.1.0
+    dev: false
+
+  /ranges-merge/7.1.0:
+    resolution: {integrity: sha512-coTHcyAEIhoEdsBs9f5f+q0rmy7UHvS/5nfuXzuj5oLX/l/tbqM5uxRb6eh8WMdetXia3lK67ZO4tarH4ieulQ==}
+    dependencies:
+      '@babel/runtime': 7.14.6
+      ranges-push: 5.1.0
+      ranges-sort: 4.1.0
+    dev: false
+
+  /ranges-push/5.1.0:
+    resolution: {integrity: sha512-vqGcaGq7GWV1zBa9w83E+dzYkOvE9/3pIRUPvLf12c+mGQCf1nesrkBI7Ob8taN2CC9V1HDSJx0KAQl0SgZftA==}
+    dependencies:
+      '@babel/runtime': 7.14.6
+      ranges-merge: 7.1.0
+      string-collapse-leading-whitespace: 5.1.0
+      string-trim-spaces-only: 3.1.0
+    dev: false
+
+  /ranges-sort/4.1.0:
+    resolution: {integrity: sha512-GOQgk6UtsrfKFeYa53YLiBVnLINwYmOk5l2QZG1csZpT6GdImUwooh+/cRrp7b+fYawZX/rnyA3Ul+pdgQBIzA==}
+    dependencies:
+      '@babel/runtime': 7.14.6
+    dev: false
+
   /raw-body/2.4.1:
     resolution: {integrity: sha512-9WmIKF6mkvA0SLmA2Knm9+qj89e+j1zqgyn8aXGd7+nAduPoqgI9lO57SAZNn/Byzo5P7JhXTyg9PzaJbH73bA==}
     engines: {node: '>= 0.8'}
@@ -3858,6 +3944,14 @@ packages:
       object-assign: 4.1.1
       react: 17.0.2
       scheduler: 0.20.2
+    dev: false
+
+  /react-hook-form/7.9.0_react@17.0.2:
+    resolution: {integrity: sha512-1SazsTvsC5A4jLxc8fIf0bB92kEp4MGjP69k8s+2nI1spHPha5UkLwaebOXhO9vY95aGqcyBU67pRiv+6T5KZQ==}
+    peerDependencies:
+      react: ^16.8.0 || ^17
+    dependencies:
+      react: 17.0.2
     dev: false
 
   /react-hotkeys-hook/3.3.2_react-dom@17.0.2+react@17.0.2:
@@ -4495,8 +4589,41 @@ packages:
       debug: 2.6.9
     dev: false
 
+  /string-collapse-leading-whitespace/5.1.0:
+    resolution: {integrity: sha512-mYz9/Kb5uvRB4DZj46zILwI4y9lD9JsvXG9Xb7zjbwm0I/R40G7oFfMsqJ28l2d7gWMTLJL569NfJQVLQbnHCw==}
+    dependencies:
+      '@babel/runtime': 7.14.6
+    dev: false
+
   /string-hash/1.1.3:
     resolution: {integrity: sha1-6Kr8CsGFW0Zmkp7X3RJ1311sgRs=}
+    dev: false
+
+  /string-left-right/4.1.0:
+    resolution: {integrity: sha512-ic/WvfNVUygWWsgg8akzSzp2NuttfhrdbH7QmSnda5b5RFmT9aCEDiS/M+gmTJwtFy7+b/2AXU4Z6vejcePQqQ==}
+    dependencies:
+      '@babel/runtime': 7.14.6
+      lodash.clonedeep: 4.5.0
+      lodash.isplainobject: 4.0.6
+    dev: false
+
+  /string-strip-html/8.3.0:
+    resolution: {integrity: sha512-1+rjTPt0JjpFr1w0bfNL1S6O0I9fJDqM+P3pFTpC6eEEpIXhmBvPLnaQoEuWarswiH219qCefDSxTLxGQyHKUg==}
+    dependencies:
+      '@babel/runtime': 7.14.6
+      html-entities: 2.3.2
+      lodash.isplainobject: 4.0.6
+      lodash.trim: 4.5.1
+      lodash.without: 4.4.0
+      ranges-apply: 5.1.0
+      ranges-push: 5.1.0
+      string-left-right: 4.1.0
+    dev: false
+
+  /string-trim-spaces-only/3.1.0:
+    resolution: {integrity: sha512-AW7RSi3+QtE6wR+4m/kmwlyy39neBbCIzrzzu1/RGzNRiPKQOeB3rGzr4ubg4UIQgYtr2w0PrxhKPXgyqJ0vaQ==}
+    dependencies:
+      '@babel/runtime': 7.14.6
     dev: false
 
   /string-width/4.2.2:
