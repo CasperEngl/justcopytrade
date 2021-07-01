@@ -33,7 +33,8 @@ export default async function handler(
       `
 
       await transporter.sendMail({
-        from: process.env.SMTP_USER,
+        from: email,
+        replyTo: email,
         to: process.env.SMTP_USER,
         subject: 'New message from justcopytrade.com',
         text: stripHtml(html).result,
