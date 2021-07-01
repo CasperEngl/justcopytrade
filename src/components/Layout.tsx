@@ -7,7 +7,7 @@ export const Layout: React.FC = ({ children }) => {
       <div className="flex-1">
         <header className="py-4 bg-jct-100">
           <div className="container">
-            <div className="flex items-center justify-between">
+            <div className="flex flex-col items-center justify-between space-y-3 lg:space-y-0 lg:flex-row">
               <Link href="/">
                 <a className="text-jct-600 hover:text-jct-700">
                   <Logo className="w-full max-w-xs" />

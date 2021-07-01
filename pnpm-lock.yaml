@@ -10,6 +10,7 @@ specifiers:
   '@types/react-dom': ^17.0.8
   '@typescript-eslint/parser': ^4.28.0
   autoprefixer: ^10.2.6
+  axios: ^0.21.1
   clsx: ^1.1.1
   eslint: 7.29.0
   eslint-config-next: 11.0.1
@@ -33,6 +34,7 @@ dependencies:
   '@mdx-js/loader': 1.6.22_react@17.0.2
   '@next/mdx': 11.0.1_@mdx-js+loader@1.6.22
   '@tailwindcss/forms': 0.3.3_tailwindcss@2.2.2
+  axios: 0.21.1
   clsx: 1.1.1
   next: 11.0.1_2dbe935e140170ce01c975771f1adcbd
   nodemailer: 6.6.2
@@ -914,6 +916,14 @@ packages:
     resolution: {integrity: sha512-pXnVMfJKSIWU2Ml4JHP7pZEPIrgBO1Fd3WGx+fPBsS+KRGhE4vxooD8XBGWbQOIVSZsVK7pUDBBkCicNu80yzQ==}
     engines: {node: '>=4'}
     dev: true
+
+  /axios/0.21.1:
+    resolution: {integrity: sha512-dKQiRHxGD9PPRIUNIWvZhPTPpl1rf/OxTYKsqKUDjBwYylTvV7SjSHJb9ratfyzM6wCdLCOYLzs73qpg5c4iGA==}
+    dependencies:
+      follow-redirects: 1.14.1
+    transitivePeerDependencies:
+      - debug
+    dev: false
 
   /axobject-query/2.2.0:
     resolution: {integrity: sha512-Td525n+iPOOyUQIeBfcASuG6uJsDOITl7Mds5gFyerkWiX7qhUTdYUBlSgNMyVqtSJqwpt1kXGLdUt6SykLMRA==}
@@ -2074,6 +2084,16 @@ packages:
   /flatted/3.1.1:
     resolution: {integrity: sha512-zAoAQiudy+r5SvnSw3KJy5os/oRJYHzrzja/tBDqrZtNhUw8bt6y8OBzMWcjWr+8liV8Eb6yOhw8WZ7VFZ5ZzA==}
     dev: true
+
+  /follow-redirects/1.14.1:
+    resolution: {integrity: sha512-HWqDgT7ZEkqRzBvc2s64vSZ/hfOceEol3ac/7tKwzuvEyWx3/4UegXh5oBOIotkGsObyk3xznnSRVADBgWSQVg==}
+    engines: {node: '>=4.0'}
+    peerDependencies:
+      debug: '*'
+    peerDependenciesMeta:
+      debug:
+        optional: true
+    dev: false
 
   /foreach/2.0.5:
     resolution: {integrity: sha1-C+4AUBiusmDQo6865ljdATbsG5k=}

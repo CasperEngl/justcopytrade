@@ -39,6 +39,8 @@ export default async function handler(
         text: stripHtml(html).result,
         html,
       })
+
+      return res.status(201).send('Thank you! Your message has been sent.')
     }
     default:
       return res.status(405).send('Method not supported')
