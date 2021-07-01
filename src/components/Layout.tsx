@@ -3,7 +3,7 @@ import { Logo } from 'components/Logo'
 
 export const Layout: React.FC = ({ children }) => {
   return (
-    <div className="flex flex-col min-h-screen text-gray-800 bg-gray-100">
+    <div className="flex flex-col min-h-screen text-gray-800 bg-jct-50">
       <div className="flex-1">
         <header className="py-4 bg-jct-100">
           <div className="container">

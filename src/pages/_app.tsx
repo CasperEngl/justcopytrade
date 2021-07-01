@@ -10,7 +10,7 @@ class MyApp extends App {
 
     return (
       <Layout>
-        <Component {...pageProps}></Component>
+        <Component {...pageProps} />
       </Layout>
     )
   }

@@ -16,6 +16,7 @@ module.exports = {
     extend: {
       colors: {
         jct: {
+          50: '#fafcfc',
           100: '#f0fcfb',
           200: '#cef2ee',
           300: '#aff0e8',
